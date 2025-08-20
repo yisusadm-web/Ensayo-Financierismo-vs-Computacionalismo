@@ -29,3 +29,16 @@ En ciudades como **Río de Janeiro** y Barcelona, plataformas digitales como **D
 
 ### El Principio Fundamental
 La gobernanza algorítmica no se trata de que las máquinas gobiernen a los humanos. Se trata de **codificar la ética y la transparencia en la infraestructura misma del poder**, haciendo que la corrupción y la opacidad sean tan obsoletas como un telégrafo. Es la reapropiación tecnológica del derecho humano a la autodeterminación.
+
+## 3.3. Automatización del Bienestar: Diseñando Sistemas que Cuidan
+
+El paradigma financierista trata el bienestar (salud, alimentación, renta básica) como un costo a minimizar o una caridad a gestionar. El computacionalismo lo trata como un output predecible de un sistema bien diseñado, un problema de optimización de recursos e información. Es la diferencia entre poner parches a un paciente terminal y diseñar un organismo inmune a la enfermedad.
+
+### Renta Básica Universal Algorítmica: Precision contra Pobreza
+Experimentos en **Kenia** con GiveDirectly y en **India** con proyectos piloto de IA demuestran que es posible identificar y transferir dinero a los hogares más vulnerables con precisión milimétrica, minimizando la burocracia y la corrupción. Los algoritmos cruzan datos de satélite (calidad de techos, agricultura de subsistencia), transacciones móviles y encuestas para priorizar a quienes realmente lo necesitan. Esto no es asistencialismo; es **logística inversa para la dignidad humana**, donde el recurso (dinero) fluye directamente al punto de necesidad con eficiencia de red neuronal, cortando a los intermediarios parasitarios.
+
+### Salud Predictiva y Preventiva: La Medicina como Servicio Público Radical
+El proyecto **AlphaFold** de DeepMind (IA que predice la estructura de las proteínas) no es un avance científico más; es un terremoto geopolítico. Al reducir de años a días el tiempo de descubrimiento de fármacos, abarata masivamente la I+D y democratiza el acceso a medicinas vitales para el Sur Global. Simultáneamente, modelos predictivos de salud pública pueden predecir brotes de malaria o desnutrición con semanas de antelación, permitiendo una asignación proactiva de recursos. La salud deja de ser un negocio de tratamiento de enfermedades para volverse un **servicio de mantenimiento predictivo de la población**.
+
+### El Principio Fundamental
+La automatización del bienestar es la culminación ética del computacionalismo: usar la inteligencia colectiva (codificada en algoritmos) para cuidar de la colectividad. Es la materialización del "imperativo humano" del artículo: **erradicar la pobreza no es un sueño, es un defecto de diseño del sistema antiguo que estamos engineerizando fuera de existencia.** Es la alquimia final: transmutar la escasez impuesta en abundancia garantizada.
