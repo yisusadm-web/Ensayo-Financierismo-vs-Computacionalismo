@@ -34,3 +34,19 @@ Desde los pueblos originarios andinos emerge una crítica radical al concepto oc
 Más allá de la geopolítica, el ascenso de China constituye una refutación técnica al dogma TINA. Su modelo—híbrido, autoritario y con profundas contradicciones—demostró que es posible sacar a 800 millones de la pobreza extrema en dos generaciones mediante una planificación estatal agresiva, inversión masiva en infraestructura y una integración estratégica (no sumisa) en los mercados globales. El financierismo responde a esto no con análisis, sino con demonización, porque su éxito prueba que el Consenso de Washington no era el único camino. El mensaje es claro: el desarrollo puede adoptar formas que el capital financiero no controla.
 
 Estos no son modelos perfectos, sino pruebas de concepto. Prueban que el universo de lo posible es vasto y que ha sido deliberadamente empobrecido para sostener un único régimen de poder.
+
+## 2.3. El Computacionalismo como Rompedor del Hechizo
+
+Las alternativas históricas fueron ahogadas por falta de herramientas para escalar su eficiencia y desafiar la narrativa de inviabilidad. El computacionalismo provee el martillo técnico para romper ese hechizo. No es otra ideología compitiendo en el mismo juego; es un cambio en las reglas fundamentales de lo que es posible.
+
+Su poder no yace en promesas, sino en capacidades tangibles:
+
+-   **Optimización Radical de Recursos:** Mientras el financierismo requiere escasez artificial para generar ganancia, los algoritmos de IA pueden diseñar sistemas logísticos, energéticos y de producción que maximicen el output con mínimo desperdicio, creando abundancia donde el sistema antiguo necesitaba falta.
+-   **Democratización de la Toma de Decisiones:** Las plataformas basadas en blockchain y sistemas de votación algorítmicos pueden permitir formas de gobernanza económica radicalmente transparentes y participativas, lejos de la opacidad de los directorios corporativos y los bancos centrales.
+-   **Automatización del Bienestar:** Imagine un sistema que automaticamente asigne recursos a comunidades en riesgo basado en datos en tiempo real (clima, precios de alimentos, indicadores de salud), no por caridad sino por diseño eficiente. Esto vuelve obsoleta la lógica de "asistencialismo vs. austeridad".
+
+El computacionalismo no "se opone" al financierismo; lo vuelve tan relevante como un códice medieval en la era de los superconductores. Es la materialización técnica de las alternativas que siempre existieron, pero que carecían del músculo para operar a escala. Por primera vez, la utopía tiene un motor.
+
+## Conclusión: Recuperar el Futuro
+
+La falacia TINA fue un hechizo de desesperanza. Romperlo requiere más que crítica; requiere la construcción de realidades tan irresistibles que hagan al viejo sistema parecer no solo injusto, sino absurdamente ineficiente. El computacionalismo es el puente entre la crítica y la creación. El siguiente capítulo dejará de teorizar y mostrará exactamente cómo esta nueva lógica está redefiniendo ya la productividad, la energía y la creación de valor en los márgenes del colapso del viejo mundo. El futuro no se negocia; se codifica.
