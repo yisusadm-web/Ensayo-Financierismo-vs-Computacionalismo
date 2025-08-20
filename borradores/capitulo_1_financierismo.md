@@ -1,5 +1,5 @@
 # Capítulo 1: El Financierismo y la Desconexión del Valor Real
-
+![Brecha entre Productividad y Salarios en EE.UU. (1970-2025)](../imagenes_graficos/brecha_productividad_salarios.png)
 ## Introducción  
 - Breve definición de "financierismo": la lógica donde el capital financiero (especulación, derivados) domina sobre el capital productivo.  
 - La tesis central: Este paradigma ha creado una economía de espejismos, desconectada del valor tangible.  
