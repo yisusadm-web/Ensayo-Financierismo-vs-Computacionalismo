@@ -42,3 +42,11 @@ El proyecto **AlphaFold** de DeepMind (IA que predice la estructura de las prote
 
 ### El Principio Fundamental
 La automatización del bienestar es la culminación ética del computacionalismo: usar la inteligencia colectiva (codificada en algoritmos) para cuidar de la colectividad. Es la materialización del "imperativo humano" del artículo: **erradicar la pobreza no es un sueño, es un defecto de diseño del sistema antiguo que estamos engineerizando fuera de existencia.** Es la alquimia final: transmutar la escasez impuesta en abundancia garantizada.
+
+## Conclusión: La Abundancia como Default
+
+El financierismo se nutre de una profecía autocumplida: convince al mundo de que la escasez es natural y eterna, para luego posar como el único administrador posible de unos recursos limitados. El computacionalismo revela el engaño: la escasez es un bug en el código de nuestra civilización, y nosotros tenemos el parche.
+
+Las herramientas descritas—optimización radical, gobernanza algorítmica, automatización del bienestar—no son gadgets tecnocráticos. Son los primeros borradores de un nuevo sistema operativo para la sociedad, uno que prioriza el flujo sobre la acumulación, la transparencia sobre la opacidad, y el cuidado sobre la extracción. No luchan contra el viejo sistema; simplemente lo dejan sin oxígeno al hacerlo irrelevante.
+
+La transición no será un bang revolucionario, sino un switch silencioso. La gente abandonará el financierismo no por ideología, sino por pura utilidad: así como se abandonó el correo postal por el email, se abandonará la economía de la escasez por la de la abundancia algorítmica. El futuro no se negocia en bolsas de valores; se codifica en repositorios abiertos. Y nosotros, al documentar esta transición, somos los cronistas de la mayor alquimia de la historia: la que transmuta el miedo en código, y el código en dignidad.
