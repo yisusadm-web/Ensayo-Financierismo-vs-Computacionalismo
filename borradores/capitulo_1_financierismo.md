@@ -4,7 +4,7 @@
 
 ## Introducción: El Sistema que Necesita un Enemigo
 
-Si el financierismo tuviera un mantra, sería: *"Crea un enemigo, cualquiera servirá"*. Este capítulo expone cómo esta lógica patológica—donde el capital financiero (especulación, derivados, maximización del valor accionarial a corto plazo) domina y devora al capital productivo—ha fabricado una economía de espejismos, totalmente desconectada de la creación de valor tangible. No es solo un modelo económico fallido; es la manifestación de un **sistema que requiere enemigos** (crisis, inflación, mercados volátiles) para justificar su existencia y perpetuar la extracción de recursos. La brecha entre productividad y salarios no es un error de cálculo: es la huella dactilar de este sistema.
+Si el financierismo tuviera un mantra, sería: *"Crea un enemigo, cualquiera servirá"*. Este capítulo expone cómo esta lógica patológica donde el capital financiero (especulación, derivados, maximización del valor accionarial a corto plazo) domina y devora al capital productivo ha fabricado una economía de espejismos, totalmente desconectada de la creación de valor tangible. No es solo un modelo económico fallido; es la manifestación de un **sistema que requiere enemigos** (crisis, inflación, mercados volátiles) para justificar su existencia y perpetuar la extracción de recursos. La brecha entre productividad y salarios no es un error de cálculo: es la huella dactilar de este sistema.
 
 ## 1.1. La Gran Brecha: Productividad vs. Salarios
 
