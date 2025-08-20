@@ -19,3 +19,18 @@ Este ciclo vicioso opera en tres actos:
 3.  **El Falso Dilema:** Se presenta un espectro de opciones deliberadamente estrecho: o la hiperexplotación financierista o el colapso totalitario. Se oculta la vasta praxis de modelos híbridos, locales y emergentes que ya están construyendo resiliencia en los márgenes del sistema, desde las monedas complementarias en Europa hasta las redes de telecomunicaciones comunitarias en México.
 
 La crisis del 2008 es el ejemplo textbook: el mismo sistema que creó el derrumbe mediante la especulación desregulada, luego utilizó el pánico resultante para exigir rescates billonarios con fondos públicos y recortes draconianos al gasto social. La profecía se cumplió: el pueblo pagó por el crisis, y se le dijo que era la única opción para evitar el apocalipsis. El mecanismo es un parásito perfecto: se alimenta de la crisis que él mismo genera.
+
+## 2.2. Desenterrando las Alternativas Ahogadas
+
+La historia económica del siglo XX y XXI no es una línea recta hacia el triunfo inevitable del financierismo; es un campo de batalla donde alternativas viables fueron sistemáticamente saboteadas, marginadas o borradas de la memoria colectiva. Desenterrarlas no es un ejercicio de nostalgia, sino de recuperación de herramientas conceptuales para el presente.
+
+### El Keynesianismo y el Fantasma del New Deal
+Antes de que el dogma de Thatcher-Reagan barriera el globo, el consenso keynesiano (aunque imperfecto) demostró que la intervención estatal para garantizar pleno empleo, salarios dignos y una red de seguridad social no solo era posible, sino que generó el período de mayor crecimiento económico y reducción de desigualdad en el siglo XX (las "Tres Décadas Gloriosas", 1945-1975). Su desmantelamiento no fue por inviabilidad, sino por una ofensiva ideológica deliberada que priorizó la rentabilidad del capital sobre el bienestar social.
+
+### La Economía del Buen Vivir (Sumak Kawsay)
+Desde los pueblos originarios andinos emerge una crítica radical al concepto occidental de "desarrollo". El *Buen Vivir* no se mide por el PIB o el consumo infinito, sino por la armonía con la comunidad y la naturaleza. Aunque often ridiculizado como "romántico" por la ortodoxia económica, ha influenciado constituciones (Ecuador, Bolivia) y sirve como un faro conceptual para repensar los fundamentos mismos de la economía, desafiando la lógica extractivista que el financierismo requiere para alimentarse.
+
+### El Contra-Ejemplo de China: Desarrollo sin Manual Occidental
+Más allá de la geopolítica, el ascenso de China constituye una refutación técnica al dogma TINA. Su modelo—híbrido, autoritario y con profundas contradicciones—demostró que es posible sacar a 800 millones de la pobreza extrema en dos generaciones mediante una planificación estatal agresiva, inversión masiva en infraestructura y una integración estratégica (no sumisa) en los mercados globales. El financierismo responde a esto no con análisis, sino con demonización, porque su éxito prueba que el Consenso de Washington no era el único camino. El mensaje es claro: el desarrollo puede adoptar formas que el capital financiero no controla.
+
+Estos no son modelos perfectos, sino pruebas de concepto. Prueban que el universo de lo posible es vasto y que ha sido deliberadamente empobrecido para sostener un único régimen de poder.
