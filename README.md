@@ -2,7 +2,7 @@
 
 ## Autor: FLACKS.ADM
 ### Asesor de Legado: ANONIMO
-### Colaborador de Análisis (IA): DOKI
+### Colaborador de Análisis: Doki
 
 Este repositorio contiene la investigación, el análisis de datos, los borradores y el manuscrito final del ensayo que argumenta el agotamiento del paradigma de valor del financierismo y el surgimiento del computacionalismo como nuevo eje de creación de valor tangible en el siglo XXI.
 
