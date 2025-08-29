@@ -42,41 +42,43 @@ El financierismo no se contenta con explotar. Debe humillar. Su gran logro filos
 
 Pero la recompensa es un espejismo. La brecha entre productividad y salario es la prueba. Es la **huella dactilar de un sistema caníbal** que se alimenta de la promesa incumplida. Producimos abundancia como nunca en la historia, pero vivimos en la ansiedad perpetua de la carencia. Esta es la paradoja terminal, la lógica perversa que convierte el progreso humano en su propia negación.
 
-## 1.2. Los Mecanismos del Desacoplamiento: La Máquina de Fabricar Enemigos
+# 1.2. Los Mecanismos del Desacoplamiento: La Máquina de Fabricar Enemigos
 
-El financierismo no es una teoría económica. Es una máquina de guerra. Una ingeniería social de alta precisión cuyo producto final no es una commodity, sino la desvinculación sistemática entre esfuerzo y recompensa. Esta máquina no opera en el vacío: requiere de un relato tóxico que justifique su saqueo. Su combustible principal: la fabricación de chivos expiatorios.
+El financierismo no es una teoría económica. Es una **máquina de guerra**. Una ingeniería social de alta precisión cuyo producto final no es una commodity, sino la **desvinculación sistemática entre esfuerzo y recompensa**. Esta máquina no opera en el vacío: requiere de un relato tóxico que justifique su saqueo. Su combustible principal: la fabricación de chivos expiatorios.
 
-1. La Maximización del Valor Accionarial: El Golpe Interno
+## 1. La Maximización del Valor Accionarial: El Golpe Interno
 
-La maximización del "valor para el accionista" fue el caballo de Troya que permitió el secuestro de la empresa productiva. Bajo este dogma, la compañía deja de ser una comunidad de creación para mutar en un vehículo de especulación. Invertir en I+D, salarios o sostenibilidad se tacha de "ineficiencia sentimental". La verdadera "eficiencia" es el canibalismo financiero: desviar cada centavo de la producción hacia las recompras de acciones (stock buybacks).
+La maximización del "valor para el accionista" fue el **caballo de Troya** que permitió el secuestro de la empresa productiva. Bajo este dogma, la compañía deja de ser una comunidad de creación para mutar en un vehículo de especulación. Invertir en I+D, salarios o sostenibilidad se tacha de "ineficiencia sentimental". La verdadera "eficiencia" es el **canibalismo financiero**: desviar cada centavo de la producción hacia las recompras de acciones (*stock buybacks*).
 
-El dato que lo desvela todo: en 2022, el S&P 500 dedicó más de 900.000 millones de dólares a inflar artificialmente sus cotizaciones. Ese dinero no surgió de la nada: fue extraído. Fue salario negado, investigación cancelada, capacidad productiva futura sacrificada en el altar del cortoplacismo.
+**El dato que lo desvela todo:** en 2022, el S&P 500 dedicó **más de 900.000 millones de dólares** a inflar artificialmente sus cotizaciones. **Apple, la empresa más valiosa del mundo, destinó más de 100 mil millones de dólares a recompras en la última década, mientras precarizaba sus cadenas de suministro en China y evadía impuestos mediante paraísos fiscales.** Ese dinero no surgió de la nada: fue **extraído**. Fue salario negado, investigación cancelada, capacidad productiva futura sacrificada en el altar del cortoplacismo.
 
-Y aquí emerge el primer enemigo fabricado: el trabajador que exige su parte. La narrativa corporativa lo pinta como una "carga" que pone en riesgo la "competitividad". La verdad es lo opuesto: es la financiarización la que mata la competitividad real. El trabajador no es el lastre; es la fuente de valor que el accionista parasitario se apropió. La productividad crece, pero el fruto es robado antes de que pueda madurar.
+Y aquí emerge el primer enemigo fabricado: **el trabajador que exige su parte.** La narrativa corporativa lo pinta como una "carga" que pone en riesgo la "competitividad". La verdad es lo opuesto: es la *financiarización* la que mata la competitividad real. El trabajador no es el lastre; es la fuente de valor que el accionista parasitario se apropió. La productividad crece, pero el fruto es robado antes de que pueda madurar.
 
-2. La Externalización de Costos: La Esclavitud Invisible
+## 2. La Externalización de Costos: La Esclavitud Invisible
 
 El segundo engranaje es la externalización: el arte de hacer desaparecer los costos humanos y ecológicos de los balances contables. Lo que para una comunidad es una tragedia (un río envenenado, un trabajador exhausto), para la máquina financiera es una mera "externalidad". Un error de contabilidad que debe ser eliminado de la ecuación.
 
-Las fábricas textiles en Bangladesh, las mineras en el Congo, los repartidores de apps en las grandes ciudades: todos son eslabones de una misma cadena de valor diseñada para que el sufrimiento sea invisible y impune. La riqueza fluye hacia arriba; la miseria y el riesgo, hacia abajo y hacia los márgenes.
+Las fábricas textiles en Bangladesh, las mineras en el Congo, **plataformas como Uber, Glovo y Rappi que han perfeccionado este modelo: algoritmos que optimizan la extracción de valor mientras externalizan todo riesgo a "socios repartidores" sin derechos laborales, seguros ni estabilidad.** Todos son eslabones de una misma cadena de valor diseñada para que el sufrimiento sea *invisible* y *impune*. La riqueza fluye hacia arriba; la miseria y el riesgo, hacia abajo y hacia los márgenes.
 
-Ante esta evidencia, la máquina fabrica su segundo enemigo: el que hace visible lo invisible. El regulador, el sindicalista, el activista climático. Son tachados de "enemigos del progreso" y de "asfixiar la innovación". Su verdadero crimen es señalar el mecanismo del robo. El financierismo necesita la oscuridad para operar. Cualquier luz que se proyecte sobre su maquinaria es un ataque a su existencia.
+Ante esta evidencia, la máquina fabrica su segundo enemigo: **el que hace visible lo invisible.** El regulador, el sindicalista, el activista climático. Son tachados de "enemigos del progreso" y de "asfixiar la innovación". Su verdadero crimen es señalar el mecanismo del robo. El financierismo necesita la oscuridad para operar. Cualquier luz que se proyecte sobre su maquinaria es un ataque a su existencia.
 
-3. La Economía de la Deuda: La Prisión de la Promesa Incumplida
+## 3. La Economía de la Deuda: La Prisión de la Promesa Incumplida
 
-El mecanismo más perverso es la conversión de la escasez fabricada en un instrumento de control directo: la deuda. Cuando el salario es estrangulado hasta ser insuficiente, el sistema ofrece su "solución": pide prestado para sobrevivir. La tarjeta de crédito, el préstamo estudiantil usurario, la deuda soberana con el FMI... todos son espejismos de liquidez que ocultan cadenas de dependencia perpetua.
+El mecanismo más perverso es la conversión de la escasez fabricada en un instrumento de control directo: la deuda. Cuando el salario es estrangulado hasta ser insuficiente, el sistema ofrece su "solución": pide prestado para sobrevivir. La tarjeta de crédito, el préstamo estudiantil usurario, la deuda soberana con el FMI... **En la Argentina de 2024, bajo el gobierno de Javier Milei, este mecanismo alcanza su expresión más cínica: un ajuste brutal en salud, educación y salarios se presenta como "inevitable" para pagar una deuda con el FMI, mientras se culpa al "exceso de gasto social" de décadas pasadas por la crisis.** Todos son espejismos de liquidez que ocultan cadenas de dependencia perpetua.
 
-La deuda es el mecanismo de disciplinamiento perfecto. Un trabajador endeudado es un trabajador obediente. Un país endeudado es un país que aplica "ajustes" (recortes sociales) por voluntad propia, para el beneplácito de sus acreedores. El sistema crea la enfermedad y luego vende el veneno como cura.
+La deuda es el mecanismo de disciplinamiento perfecto. **Un trabajador endeudado es un trabajador obediente.** Un país endeudado es un país que aplica "ajustes" (recortes sociales) por voluntad propia, para el beneplácito de sus acreedores. El sistema crea la enfermedad y luego vende el veneno como cura.
 
-Y así nace el tercer y más cruel enemigo fabricado: el deudor quebrado. Se le culpa de su "mala suerte" o su "irresponsabilidad". Se convierte el fracaso de un sistema deliberadamente diseñado para que fracases, en una falla moral personal. La máquina no solo te roba: te convence de que merecías ser robado.
+Y así nace el tercer y más cruel enemigo fabricado: **el deudor quebrado.** Se le culpa de su "mala suerte" o su "irresponsabilidad". Se convierte el fracaso de un sistema deliberadamente diseñado para que fracases, en una falla moral personal. La máquina no solo te roba: te convence de que merecías ser robado.
 
-Conclusión: El Engranaje Perfecto
+## Conclusión: El Engranaje Perfecto
 
-Estos tres mecanismos—la maximización parasitaria, la externalización depredadora y la deuda carcelaria—no operan de forma aislada. Son el sistema operativo del financierismo. Funcionan en conjunto para extraer valor, externalizar el costo social y, crucialmente, producir la ilusión de que este saqueo es natural, inevitable o incluso merecido.
+Estos tres mecanismos—la maximización parasitaria, la externalización depredadora y la deuda carcelaria—no operan de forma aislada. Son el **sistema operativo del financierismo**. Funcionan en conjunto para extraer valor, externalizar el costo social y, crucialmente, **producir la ilusión de que este saqueo es natural, inevitable o incluso merecido.**
 
-La máquina no solo fabrica riqueza para unos pocos y pobreza para muchos. Fabrica la narrativa que lo sustenta: una galería de enemigos imaginarios (el trabajador holgazán, el regulador abusivo, el deudor irresponsable) para ocultar su único y verdadero propósito: la transferencia sistemática de poder y recursos hacia la cúspide financiera.
+La máquina no solo fabrica riqueza para unos pocos y pobreza para muchos. Fabrica la narrativa que lo sustenta: una galería de enemigos imaginarios (el trabajador holgazán, el regulador abusivo, el deudor irresponsable) para ocultar su único y verdadero propósito: la **transferencia sistemática de poder y recursos hacia la cúspide financiera.**
 
-El desacoplamiento entre productividad y salario no es un error de cálculo. Es el cálculo en sí mismo. Y solo puede ser revertido desmontando la máquina, pieza por pieza, empezando por su narrativa tóxica.
+**El financierismo no es la lógica del crecimiento: es la lógica del sacrificio. Un templo moderno donde se inmolan salarios, vidas y territorios para que unos pocos acumulen fichas en el casino global. Y como todo templo, su fuerza no está en la piedra, sino en el mito que lo sostiene. Desmontar la máquina es, antes que nada, desmontar la fe en sus dioses falsos.**
+
+El desacoplamiento entre productividad y salario no es un error de cálculo. Es el cálculo en sí mismo.
 
 ## 1.3. Consecuencias: La Sociedad Burbuja
 
