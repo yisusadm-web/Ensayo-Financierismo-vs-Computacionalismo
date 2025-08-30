@@ -82,8 +82,6 @@ La máquina no solo fabrica riqueza para unos pocos y pobreza para muchos. Fabri
 
 El desacoplamiento entre productividad y salario no es un error de cálculo. Es el cálculo en sí mismo.
 
-## 1.3. Consecuencias: La Sociedad Burbuja
-
 # 1.3. Consecuencias: La Sociedad Burbuja
 
 Vivimos en una **sociedad burbuja**, un ecosistema de espejismos donde la riqueza es una ilusión financiera sostenida por activos inflados —bolsa, real estate, criptomonedas— que rara vez reflejan valor productivo real. Esta desconexión no es abstracta: tiene consecuencias profundas y visibles que fracturan la vida social y política, generando un mundo donde la abundancia es ficticia y la precariedad, muy real.
