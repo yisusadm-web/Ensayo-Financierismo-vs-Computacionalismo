@@ -3,9 +3,10 @@
 ![Brecha entre Productividad y Salarios en EE.UU. (1970-2025)](../imagenes_graficos/brecha_productividad_salarios.png)
 
 ## El Sistema que Necesita un Enemigo
-Si el financierismo tuviera un mantra, sería: *"Crea un enemigo, cualquiera servirá"*. Este capítulo expone cómo esta lógica perversa, donde el capital financiero (especulación, derivados, maximización del valor accionarial a corto plazo) domina y devora al capital productivo, ha fabricado una economía de espejismos, totalmente desconectada de la creación de valor tangible. No es solo un modelo económico fallido; es la manifestación de un sistema que necesita enemigos (crisis, inflación, mercados volátiles) para justificar su existencia y perpetuar la extracción de recursos.
+Si el financierismo tuviera un mantra, sería: *"Crea un enemigo, cualquiera servirá"*.
+ Este capítulo expone cómo esta lógica perversa, donde el capital financiero (especulación, derivados, maximización del valor accionarial a corto plazo) domina y devora al capital productivo, fabricando una economía de espejismos, totalmente desconectada de la creación de valor tangible. No es solo un modelo económico fallido; es la manifestación de un sistema que necesita enemigos (crisis, inflación, mercados volátiles) para justificar su existencia y perpetuar la extracción de recursos.
 
-**Imagine un casino donde no se juega con fichas, sino con el precio de los alimentos, la energía y la vivienda de millones de personas.** Ese casino es el financierismo: detrás de la fachada brillante del capital especulativo (apuestas financieras, derivados, obsesión por ganancias rápidas) se esconde una maquinaria que devora a la economía real, la que produce bienes tangibles, y la reemplaza por un mundo de ilusiones completamente desconectado de la producción de valor concreto. La brecha entre productividad y salarios no es un error de cálculo: es la huella dactilar de este sistema.
+**Imagine un casino donde no se juega con fichas, sino con el precio de los alimentos, la energía y la vivienda de millones de personas.** Ese casino es el financierismo. Detrás de la fachada brillante del capital especulativo (apuestas financieras, derivados, obsesión por ganancias rápidas) se esconde una maquinaria que devora a la economía real, la que produce bienes tangibles, y la reemplaza por un mundo de ilusiones completamente desconectado de la producción de valor concreto. La brecha entre productividad y salarios no es un error de cálculo: es la huella dactilar de este sistema.
 
 ## 1.1. La Gran Brecha: Productividad vs. Salarios
 
